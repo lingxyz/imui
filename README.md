@@ -1,2 +1,2 @@
 # lint
-A Vue.js 2.0 Mobile UI
+A mobile UI Toolkit with Vue2.js.
